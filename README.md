@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RedIsGaming.
-- 👀 I’m interested in Rust.
+- 👀 I’m interested in Rust, Python and C#.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on something, DM me on DC instead.
 - 📫 How to reach me: RedIsGaming#2705 on Discord.
