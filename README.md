@@ -11,3 +11,7 @@
 - 💬 You can ask me `anything` about HTML/CSS, SQL or PHP.
 - 🍃 If there is `something` interesting, I'm available for collaberations.
 - 🎮 You can reach me out on Discord: `RedIsGaming#2705`.
+
+## Current project
+- 🔭 I'm currently working on `something interesting that will be announced soon`.
+- 😈 Other side projects that I think are worth it.
