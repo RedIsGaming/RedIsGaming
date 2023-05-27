@@ -7,7 +7,7 @@
 
 ## My interests
 - 📚 Interesting things I want to learn more about are: `Rust, everything that has to do with memory and Quantum Computing`.
-- 💻 I'm currently learning more about `TS/JS` which my focus is on right now.
+- 💻 I'm currently learning more about `Rust` and `TS/JS`.
 - 💬 You can ask me `anything` about HTML/CSS, SQL or PHP.
 - 🍃 If there is `something` interesting, I'm available for collaberations.
 - 🎮 You can reach me out on Discord: `RedIsGaming#2705`.
