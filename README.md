@@ -13,5 +13,4 @@
 - 🎮 You can reach me out on Discord: `RedIsGaming#2705`.
 
 ## Current project
-- 🔭 I'm currently working on `something interesting that will be announced soon`.
-- 😈 Other side projects that I think are worth it.
+- 🔭 I'm currently working on [**w-cli**](https://www.github.com/RedIsGaming/w-cli).
