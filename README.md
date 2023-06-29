@@ -7,10 +7,10 @@
 
 ## My interests
 - 📚 Interesting things I want to learn more about are: `Rust, everything that has to do with memory and Quantum Computing`.
-- 💻 I'm currently learning more about `Rust` and `TS/JS`.
-- 💬 You can ask me `anything` about HTML/CSS, SQL or PHP.
+- 💻 I'm currently learning more about `Rust` and `TS/JS/Svelte`.
+- 💬 You can ask me `anything` about HTML/CSS, SQL or PHP (C# I can understand tho).
 - 🍃 If there is `something` interesting, I'm available for collaberations.
-- 🎮 You can reach me out on Discord: `RedIsGaming#2705`.
+- 🎮 You can reach me out on Discord: `redisgaming`.
 
 ## Current project
-- 🔭 I'm currently working on [**w-cli**](https://www.github.com/RedIsGaming/w-cli).
+- 🔭 I'm currently working on [**w-cli**](https://www.github.com/RedIsGaming/w-cli). But actually on a portfolio project now.
