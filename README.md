@@ -15,6 +15,6 @@
 ## Current project
 - 🔭 I'm currently working on [**w-cli**](https://www.github.com/RedIsGaming/w-cli). But actually on a portfolio project now.
 
-![Reddy's GitHub Stats](https://github.readme-stats.vercel.app/api?username=RedIsGaming&show_icons=true&theme=shadow_red)
+![Reddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedIsGaming&show_icons=true&theme=shadow_red)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedIsGaming&layout=compact&theme=shadow_red) -->
