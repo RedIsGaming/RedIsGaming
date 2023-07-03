@@ -15,4 +15,8 @@
 ## Current project
 - 🔭 I'm currently working on [**w-cli**](https://www.github.com/RedIsGaming/w-cli). But actually on a portfolio project now.
 
-![Reddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedIsGaming&show_icons=true&theme=midnight-purple)
+## Stats
+<details>
+  <summary>My GitHub Stats</summary>
+  ![Reddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedIsGaming&show_icons=true&theme=midnight-purple)
+</details>
