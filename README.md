@@ -6,16 +6,15 @@
 * Oh and I love to make `mistakes` to be able to get better in programming.
 
 ## My interests
-- 📚 Interesting things I want to learn more about are: `Rust, everything that has to do with memory and Quantum Computing`.
+- 📚 Interesting things I want to learn more about are: `Rust, everything that has to do with memory, Quantum Computing and things that interest me`.
 - 💻 I'm currently learning more about `Rust` and `TS/JS/Svelte`.
-- 💬 You can ask me `anything` about HTML/CSS, SQL or PHP (C# I can understand tho).
+- 💬 You can ask me `anything` about HTML/CSS, SQL, PHP or C#.
 - 🍃 If there is `something` interesting, I'm available for collaberations.
 - 🎮 You can reach me out on Discord: `redisgaming`.
 
 ## Current project
 - 🔭 I'm currently working on [**w-cli**](https://www.github.com/RedIsGaming/w-cli). But actually on a portfolio project now.
 
-## Stats
 <details>
   <summary>My GitHub Stats</summary>
   
