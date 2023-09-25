@@ -20,6 +20,5 @@
 <details>
   <summary>Reddy's Langs/Stats</summary><br/>
   
-  ![Reddy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedIsGaming&theme=midnight-ourple?exclude_repo=RedSnake)
   ![Reddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedIsGaming&show_icons=true&theme=midnight-purple)
 </details>
