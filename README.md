@@ -1,10 +1,10 @@
 # Hello there human being 🫡
-On this page you can find some interesting and exiting things about me.<br/>
+* 🤔 On this page you can find some interesting and exiting things about me.<br/>
 
 ## General info
-* I'm particulary focused on the backend and in making cool things.
-* I'm always interested and exited about learning new stuff.
-* Feel free to contact me at any time, oh and I love to make mistakes to be able to get better in my programming skills.
+* ⚙️ I'm particulary focused on the backend and in making cool things.
+* 🖥️ I'm always interested and exited about learning new stuff.
+* 💡 Feel free to contact me at any time, oh and I love to make mistakes to be able to get better in my programming skills.
 
 ## My code interests
 - 📚 Interesting things I want to learn more about are: Rust, everything that has to do with memory, C#, TS/JS and things that takes my interest.
@@ -20,6 +20,6 @@ On this page you can find some interesting and exiting things about me.<br/>
 <details>
   <summary>Reddy's Langs/Stats</summary><br/>
   
-  ![Reddy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedIsGaming&layout=compact&theme=midnight-ourple)
+  ![Reddy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedIsGaming&theme=midnight-ourple?exclude_repo=RedSnake)
   ![Reddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedIsGaming&show_icons=true&theme=midnight-purple)
 </details>
