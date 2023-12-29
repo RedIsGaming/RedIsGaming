@@ -13,12 +13,9 @@
 - 🍃 If there is something interesting, I'm available for collaberations.
 - 🎮 You can reach me out on Discord: redisgaming.
 
-## Current project
-- 🔭 I'm currently working on [**rlsyscli**](https://github.com/RedIsGaming/rlsyscli).
-
 ---------------
 <details>
-  <summary>Reddy's Langs/Stats</summary><br/>
+  <summary>Reddy's Stats</summary><br/>
   
   ![Reddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedIsGaming&show_icons=true&theme=midnight-purple)
 </details>
